@@ -6,6 +6,8 @@
 
 module.exports = {
   siteName: 'Songkhla',
+  siteUrl: 'https://6310110699.github.io',
+  pathPrefix: 'groupwork420-songkhla',
   plugins: [
     {
       use: "@gridsome/source-filesystem",
